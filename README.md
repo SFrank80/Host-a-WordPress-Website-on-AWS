@@ -21,7 +21,7 @@ This project involves deploying a WordPress website on Amazon Web Services, util
 - **EC2 Instance Connect**: Allows secure SSH access to EC2 instances from the internet.
 
 ### Diagram
-Insert your architecture diagram here to give a visual overview of the application setup.
+![Alt-text](https://github.com/SFrank80/Host-a-WordPress-Website-on-AWS/blob/380b4c26fe110933b6bfd4291b843e56c643f227/2._Host_a_WordPress_Website_on_AWS%20(1).png)
 
 ## Deployment Strategy
 
